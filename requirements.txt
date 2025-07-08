@@ -1,0 +1,3 @@
+Flask
+pysrt
+indic-transliteration
